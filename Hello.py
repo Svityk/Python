@@ -1,3 +1,3 @@
 print('Hello World')
-Print('Next')
+print('Next')
 
